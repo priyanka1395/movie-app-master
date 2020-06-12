@@ -1,0 +1,39 @@
+{
+  "name": "movie-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "primeicons": "^4.0.0-rc.2",
+    "primereact": "^4.2.2",
+    "react": "^16.8.2",
+    "react-bootstrap": "^1.0.1",
+    "react-css-modules": "^4.7.11",
+    "react-dom": "^16.8.2",
+    "react-media": "^1.10.0",
+    "react-navigation": "^4.3.9",
+    "react-responsive": "^8.1.0",
+    "react-responsive-carousel": "^3.2.7",
+    "react-scripts": "2.1.1",
+    "react-universal-ui": "^1.0.53",
+    "segoe-fonts": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.0.4"
+  }
+}
