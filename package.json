@@ -14,7 +14,7 @@
     "react-navigation": "^4.3.9",
     "react-responsive": "^8.1.0",
     "react-responsive-carousel": "^3.2.7",
-    "react-scripts": "2.1.1",
+    "react-scripts": "5.0.1",
     "react-universal-ui": "^1.0.53",
     "segoe-fonts": "^1.0.1"
   },
